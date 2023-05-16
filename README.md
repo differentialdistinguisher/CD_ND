@@ -1,6 +1,6 @@
 
 
-## Source Code for Keeping Classical Distinguisher and Neural Distinguisher in balance
+## Keeping Classical Distinguisher and Neural Distinguisher in balance
 
 
 **Cipher Implementartion:**
